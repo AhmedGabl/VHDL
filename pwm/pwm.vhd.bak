@@ -1,0 +1,7 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+ 
+entity PWM is
+port(clk: in std_logic;duty_cycle : in unsigned(3 downto 0);pwm_out: out std_logic);
+end PWM;

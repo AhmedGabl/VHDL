@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\hp\Desktop\New folder\pwm\simulation\modelsim
+Ecounter
+Z1 w1609954308
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\hp\Desktop\New folder\pwm\simulation\modelsim
+Z7 8C:/Users/hp/Desktop/New folder/pwm/counter.vhd
+Z8 FC:/Users/hp/Desktop/New folder/pwm/counter.vhd
+l0
+L5
+VhS7eCmaWOzYilzdB;<ff@0
+!s100 EZAanLn51dFk0RLoZY?Lf3
+Z9 OV;C;10.1d;51
+31
+!i10b 1
+Z10 !s108 1609960249.889000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/hp/Desktop/New folder/pwm/counter.vhd|
+Z12 !s107 C:/Users/hp/Desktop/New folder/pwm/counter.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+Abehavior
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 hS7eCmaWOzYilzdB;<ff@0
+l13
+L11
+Vl;0>VCcKQ1VZdd<JRfRQG0
+!s100 bhOTfKJ`e3VHC]=`9dY^H0
+R9
+31
+!i10b 1
+R10
+R11
+R12
+R13
+R14
+Epwm
+Z15 w1609960020
+R2
+R3
+R4
+R5
+R6
+Z16 8C:/Users/hp/Desktop/New folder/pwm/pwm.vhd
+Z17 FC:/Users/hp/Desktop/New folder/pwm/pwm.vhd
+l0
+L6
+VdCV54PYhSi9MS9zbJQ>^P1
+R9
+31
+Z18 !s108 1609960249.739000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/hp/Desktop/New folder/pwm/pwm.vhd|
+Z20 !s107 C:/Users/hp/Desktop/New folder/pwm/pwm.vhd|
+R13
+R14
+!s100 @QA5WW=7d1j2U>Ih]ITUe2
+!i10b 1
+Abehaviour
+R2
+R3
+R4
+R5
+DEx4 work 3 pwm 0 22 dCV54PYhSi9MS9zbJQ>^P1
+l19
+L10
+VL4;?b:4JMZ5CfGL5iHB]o2
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 9SCnBa?e]FE=ZdMgdnakW0
+!i10b 1

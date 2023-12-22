@@ -1,0 +1,11 @@
+|Counter
+Clock => tmp[0].CLK
+Clock => tmp[1].CLK
+Clock => tmp[2].CLK
+Clock => tmp[3].CLK
+Q[0] <= tmp[0].DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= tmp[1].DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= tmp[2].DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= tmp[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
